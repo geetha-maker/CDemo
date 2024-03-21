@@ -1,0 +1,6 @@
+email=anjaligeetharavi2005@gmail.com
+name=Geethanjali
+
+user="geetha-maker"
+
+sshCommand="ssh -i ~/.ssh/id_ed25519"

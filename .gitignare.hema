@@ -1,0 +1,6 @@
+email=hemaravimudliyar1981@gmail.com
+name=Hema 
+
+user="hemaravimudliyar1981"
+
+sshCommand="ssh -i ~/.ssh/id_rsa_hema"
